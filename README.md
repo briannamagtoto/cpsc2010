@@ -1,2 +1,2 @@
-# cpsc201
-log of assignments for the upcoming school year
+# cpsc2010
+CPSC 2010: Introduction to Computer Science (Fall 2025) at Yale University 
